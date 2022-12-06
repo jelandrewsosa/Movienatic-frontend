@@ -1,0 +1,5 @@
+.movie {
+  display: flex;
+  flex-direction: row;
+  padding: 0 50px;
+}

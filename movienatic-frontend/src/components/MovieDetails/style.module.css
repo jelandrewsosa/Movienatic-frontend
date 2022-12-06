@@ -1,0 +1,12 @@
+.movieDetails {
+  color: rgb(184, 176, 176);
+  margin: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items:baseline;
+  background-color: rgb(18, 18, 18);
+  padding: 20px;
+  max-width: 300px;
+  border-radius: 5px;
+}

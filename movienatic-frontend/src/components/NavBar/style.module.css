@@ -1,0 +1,18 @@
+.nav {
+  padding: 30px 70px;
+  border-radius: 50px !important;
+}
+
+.appBar {
+  border-radius: 5px;
+  background-color: RGB(18, 18, 18) !important;
+  padding-left: 20px;
+}
+
+.logo {
+  color: RGB(245, 197, 24) !important;
+}
+
+.signIn {
+  color: RGB(245, 197, 24) !important;
+}

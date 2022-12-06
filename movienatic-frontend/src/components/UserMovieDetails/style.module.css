@@ -1,0 +1,21 @@
+.userMovie {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  margin-left: 4%;
+  height: 15vh;
+  background-color: RGB(43, 43, 43);
+  border-radius: 5px;
+  text-align: left;
+}
+
+.movieBanner img {
+  flex: 30%;
+  max-height: 80px;
+  max-width: 100px;
+  margin: 15px;
+}
+
+.userMovieContent {
+  flex: 65%;
+}
